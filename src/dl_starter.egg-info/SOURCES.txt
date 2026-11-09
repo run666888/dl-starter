@@ -1,0 +1,17 @@
+README.md
+pyproject.toml
+src/dl_starter/__init__.py
+src/dl_starter/checkpoint.py
+src/dl_starter/config.py
+src/dl_starter/data.py
+src/dl_starter/device.py
+src/dl_starter/engine.py
+src/dl_starter/evaluate.py
+src/dl_starter/models.py
+src/dl_starter/train.py
+src/dl_starter.egg-info/PKG-INFO
+src/dl_starter.egg-info/SOURCES.txt
+src/dl_starter.egg-info/dependency_links.txt
+src/dl_starter.egg-info/requires.txt
+src/dl_starter.egg-info/top_level.txt
+tests/test_core.py
